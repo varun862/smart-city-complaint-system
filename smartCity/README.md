@@ -37,9 +37,3 @@ A real-time, GIS-integrated web application designed for urban infrastructure ma
    ```
 3. Open `http://127.0.0.1:5000` in your browser.
 
-## 👤 Credentials
-- **Admin**: `admin@system.com` / `admin123`
-- **Citizen**: Register via the signup page.
-
----
-Created by Antigravity
